@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Esref Blog</title>
-    <link href="https://esrefk.github.io/personel-blog/feed.xml" rel="self" />
-    <link href="https://esrefk.github.io/personel-blog" />
-    <updated>2019-06-13T11:04:55+03:00</updated>
+    <link href="https://esrefk.github.io/feed.xml" rel="self" />
+    <link href="https://esrefk.github.io" />
+    <updated>2019-06-13T11:07:23+03:00</updated>
     <author>
         <name>Eşref Küçüktorun</name>
     </author>
-    <id>https://esrefk.github.io/personel-blog</id>
+    <id>https://esrefk.github.io</id>
 
     <entry>
         <title>Merhaba</title>
         <author>
             <name>Eşref Küçüktorun</name>
         </author>
-        <link href="https://esrefk.github.io/personel-blog/hello-word/"/>
-        <id>https://esrefk.github.io/personel-blog/hello-word/</id>
+        <link href="https://esrefk.github.io/hello-word/"/>
+        <id>https://esrefk.github.io/hello-word/</id>
 
         <updated>2019-06-13T11:00:31+03:00</updated>
             <summary>

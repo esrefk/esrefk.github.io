@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Esref Blog",
     "description": "",
-    "home_page_url": "https://esrefk.github.io/personel-blog",
-    "feed_url": "https://esrefk.github.io/personel-blog/feed.json",
+    "home_page_url": "https://esrefk.github.io",
+    "feed_url": "https://esrefk.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Eşref Küçüktorun"
     },
     "items": [
         {
-            "id": "https://esrefk.github.io/personel-blog/hello-word/",
-            "url": "https://esrefk.github.io/personel-blog/hello-word/",
+            "id": "https://esrefk.github.io/hello-word/",
+            "url": "https://esrefk.github.io/hello-word/",
             "title": "Merhaba",
             "summary": "Bu platformu Publii kullanarak oluşturdum.",
             "content_html": "Bu platformu <a href=\"https://getpublii.com/\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Publii\">Publii</a> kullanarak oluşturdum.",
