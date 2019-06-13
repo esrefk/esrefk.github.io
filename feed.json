@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Esref Blog",
+    "description": "",
+    "home_page_url": "https://esrefk.github.io/personel-blog",
+    "feed_url": "https://esrefk.github.io/personel-blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Eşref Küçüktorun"
+    },
+    "items": [
+        {
+            "id": "https://esrefk.github.io/personel-blog/hello-word/",
+            "url": "https://esrefk.github.io/personel-blog/hello-word/",
+            "title": "Hello Word",
+            "summary": "Merhaba Dünya",
+            "content_html": "Merhaba Dünya",
+            "author": {
+                "name": "Eşref Küçüktorun"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-06-12T16:58:39+03:00",
+            "date_modified": "2019-06-12T16:58:39+03:00"
+        }
+    ]
+}
