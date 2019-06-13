@@ -12,16 +12,16 @@
         {
             "id": "https://esrefk.github.io/personel-blog/hello-word/",
             "url": "https://esrefk.github.io/personel-blog/hello-word/",
-            "title": "Hello Word",
-            "summary": "Merhaba Dünya",
-            "content_html": "Merhaba Dünya",
+            "title": "Merhaba",
+            "summary": "Bu platformu Publii kullanarak oluşturdum.",
+            "content_html": "Bu platformu <a href=\"https://getpublii.com/\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Publii\">Publii</a> kullanarak oluşturdum.",
             "author": {
                 "name": "Eşref Küçüktorun"
             },
             "tags": [
             ],
             "date_published": "2019-06-12T16:58:39+03:00",
-            "date_modified": "2019-06-12T16:58:39+03:00"
+            "date_modified": "2019-06-13T11:00:31+03:00"
         }
     ]
 }

@@ -3,29 +3,29 @@
     <title>Esref Blog</title>
     <link href="https://esrefk.github.io/personel-blog/feed.xml" rel="self" />
     <link href="https://esrefk.github.io/personel-blog" />
-    <updated>2019-06-13T10:58:28+03:00</updated>
+    <updated>2019-06-13T11:01:38+03:00</updated>
     <author>
         <name>Eşref Küçüktorun</name>
     </author>
     <id>https://esrefk.github.io/personel-blog</id>
 
     <entry>
-        <title>Hello Word</title>
+        <title>Merhaba</title>
         <author>
             <name>Eşref Küçüktorun</name>
         </author>
         <link href="https://esrefk.github.io/personel-blog/hello-word/"/>
         <id>https://esrefk.github.io/personel-blog/hello-word/</id>
 
-        <updated>2019-06-12T16:58:39+03:00</updated>
+        <updated>2019-06-13T11:00:31+03:00</updated>
             <summary>
                 <![CDATA[
-                    Merhaba Dünya
+                    Bu platformu Publii kullanarak oluşturdum.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                Merhaba Dünya
+                Bu platformu <a href="https://getpublii.com/" target="_blank" rel="noopener noreferrer" title="Publii">Publii</a> kullanarak oluşturdum.
             ]]>
         </content>
     </entry>
